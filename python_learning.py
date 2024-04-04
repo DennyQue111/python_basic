@@ -266,3 +266,6 @@
 # with open('/Users/filmfireworks_edit01/Desktop/test.txt','w') as file:
 #     file.write(text)
 
+'''
+\n   \t   \'...\'  \"...\"
+'''
